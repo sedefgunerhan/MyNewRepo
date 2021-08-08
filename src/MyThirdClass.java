@@ -3,6 +3,5 @@ public class MyThirdClass {
             int x = 5;
             int sum = x + 2;
             System.out.println(sum);
-
         }
 }
